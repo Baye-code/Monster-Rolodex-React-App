@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Monster-Rolodex-React-App/static/css/main.b8a11248.css",
+    "main.js": "/Monster-Rolodex-React-App/static/js/main.787fc92b.js",
+    "static/js/364.39be393e.chunk.js": "/Monster-Rolodex-React-App/static/js/364.39be393e.chunk.js",
+    "static/js/787.e4e9b7ff.chunk.js": "/Monster-Rolodex-React-App/static/js/787.e4e9b7ff.chunk.js",
+    "index.html": "/Monster-Rolodex-React-App/index.html",
+    "main.b8a11248.css.map": "/Monster-Rolodex-React-App/static/css/main.b8a11248.css.map",
+    "main.787fc92b.js.map": "/Monster-Rolodex-React-App/static/js/main.787fc92b.js.map",
+    "364.39be393e.chunk.js.map": "/Monster-Rolodex-React-App/static/js/364.39be393e.chunk.js.map",
+    "787.e4e9b7ff.chunk.js.map": "/Monster-Rolodex-React-App/static/js/787.e4e9b7ff.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b8a11248.css",
+    "static/js/main.787fc92b.js"
+  ]
+}
